@@ -5,5 +5,8 @@ repo for testing git/github
 
 ## Data and file information
 
+- describe files corresponding to data
+- describe files corresponding to code
+
 
 ## Rendered output
